@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: kint
+Version: 0.9
+Requires-Dist: requests
+Requires-Dist: rich
+Requires-Dist: beautifulsoup4
+Dynamic: requires-dist
